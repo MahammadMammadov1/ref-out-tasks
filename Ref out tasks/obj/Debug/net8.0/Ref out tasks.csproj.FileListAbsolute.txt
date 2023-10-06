@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\bin\Debug\net8.0\Ref out tasks.exe
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\bin\Debug\net8.0\Ref out tasks.deps.json
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\bin\Debug\net8.0\Ref out tasks.runtimeconfig.json
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\bin\Debug\net8.0\Ref out tasks.dll
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\bin\Debug\net8.0\Ref out tasks.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.AssemblyInfo.cs
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.sourcelink.json
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.dll
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\refint\Ref out tasks.dll
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.pdb
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\Ref out tasks.genruntimeconfig.cache
+C:\Users\Mehemmed\Desktop\BP206task\Ref out tasks\Ref out tasks\obj\Debug\net8.0\ref\Ref out tasks.dll
